@@ -108,7 +108,7 @@ Open customer_behavior_dashboard.pbix and connect to SQL database for interactiv
 ##Author & Contact
 
 
-Pallavi Vijay Vhalgade
+Pallavi Vholgade
 Final Year AIML Student | Aspiring Data Analyst
 📧 Email: pallavivhalgade@gmail.com
 
