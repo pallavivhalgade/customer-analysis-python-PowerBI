@@ -79,13 +79,14 @@ Addressed challenges faced by organizations in improving sales, loyalty, and cus
 - **Visualized** revenue by category, sales by age group, subscription status, and average purchase amount  
 - **Tracked KPIs:** 3.9K customers, average review rating 3.75  
 
+![Customer Behavior Dashboard](images/Screenshot%202025-11-26%20193914.png)
+
 ---
 
 ## Project Links
 - 🔗 **GitHub Repository:** [https://github.com/pallavivhalgade/customer-analysis-python-PowerBI.git](https://github.com/pallavivhalgade/customer-analysis-python-PowerBI.git)  
-- 📄 **Project Report PDF:** `Customer Shopping Behavior Analysis.pdf`  
-- 💡 **Presentation Deck:** `Customer-Shopping-Behavior-Analysis.pptx`  
-
+- 📄 **Project Report PDF:** [https://drive.google.com/file/d/1TkWuLTKY4H324EpAdgpdPrcp6e-tUlvu/view?usp=sharing]  
+- 💡 **Presentation Deck:** [https://drive.google.com/file/d/1GEbTJxG_ulYjsVqHtPjDNHzEgRI3DdXk/view?usp=sharing]
 ---
 
 ## How to Run This Project
